@@ -28,6 +28,8 @@ Your website should fulfill AT LEAST these 5 user stories:
 
 You can of course add other features, such as a secret page for updating contestant details, or a map displaying where each contestant is from, etc.
 
+The design is all up to you! Be creative and have fun 🎨😎
+
 ### Getting started 
 
 #### Fork this repo 

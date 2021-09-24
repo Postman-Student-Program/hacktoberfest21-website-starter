@@ -22,7 +22,7 @@ Click the "Fork" button at the top-right of this repository. This will create a 
 
 *\*Note: if you are working in a team, only one person needs to fork this repo. That person will be the Maintainer. They can [add teammates as collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) on the repo.*
 
-#### [optional] Add `hacktoberfest` topic to repo
+#### Add `hacktoberfest` topic to repo [optional]
 
 If you would like any pull requests in your repo to count toward [DigitalOcean's Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 

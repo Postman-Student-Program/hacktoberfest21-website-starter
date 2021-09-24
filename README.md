@@ -21,7 +21,7 @@ You can use ANY tech stack you like to build your website, as long as you deploy
 Your website should fulfill AT LEAST these 5 user stories that consume the Halloween Costume Contest API: 
 
 ```
-- As a user, I can view all the contestant’s costume images in some kind of list
+- As a user, I can view all contestants' costume images in some kind of list
 - As a user, I can view all details about a single contestant
 - As a user, I can upvote individual contestants 
 - As a user, I can add a contestant
@@ -31,6 +31,12 @@ Your website should fulfill AT LEAST these 5 user stories that consume the Hallo
 You can of course add other features, such as a secret page for updating contestant details, or a map displaying where each contestant is from, etc.
 
 The design is all up to you! Be creative and have fun 🎨😎
+
+### How to use the API 
+
+In the API-First approach, a mock server has been created based off of the Halloween Costume Contest API. 
+
+You can fork the mock server, and make real request to get dummy data from the various endpoints. 
 
 ### Getting started 
 

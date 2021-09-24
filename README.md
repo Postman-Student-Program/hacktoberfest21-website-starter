@@ -40,13 +40,13 @@ You can fork the mock server, and make real request to get dummy data from the v
 
 ### Getting started 
 
-#### Fork this repo 
+#### 1. Fork this repo 
 
 Click the "Fork" button at the top-right of this repository. This will create a copy of the repo in your GitHub account.
 
 *\*Note: if you are working in a team, only one person needs to fork this repo. That person will be the Maintainer. They can [add teammates as collaborators](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository) on the repo.*
 
-#### Add `hacktoberfest` topic to repo [optional]
+#### 2. Add `hacktoberfest` topic to repo [optional]
 
 If you would like anyone's pull requests in your repo to count toward [DigitalOcean's Hacktoberfest](https://hacktoberfest.digitalocean.com/), you will need to opt-in by adding the topic `hacktoberfest` to your repo. 
 
@@ -56,9 +56,15 @@ In the "About" section in the upper-right of the repo, click the Settings icon. 
 <img src="https://user-images.githubusercontent.com/9841162/134697037-d044c651-39e5-446d-b577-c0b417085c18.png" height="150px" style="display: inline-block" />
 
 
-#### Register for Postman's Student Hacktoberfest
+#### 3. Register for Postman's Student Hacktoberfest
+
+Fill out [this form]()
 
 #### Clone your forked repo 
+
+[Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your GitHub repo locally to your computer so you can start writing code. 
+
+You will need to have [gihttps://git-scm.com/book/en/v2/Getting-Started-Installing-Giturl) installed on your computer
 
 ### Building your website
 

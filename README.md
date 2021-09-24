@@ -34,11 +34,9 @@ The design is all up to you! Be creative and have fun 🎨😎
 
 ### How to use the API 
 
-In the API-First approach, a mock server has been created based off of the Halloween Costume Contest API. 
+First, in Postman, fork [this mock server](https://postman.postman.co/workspace/Postman-Hacktoberfest'21-~1ae1036b-6583-4883-949e-adf8b55687a1/collection/15567703-f6609889-8071-4251-9f1c-e55c7c6c45a3?ctx=documentation) we have prepared. It will allow you to make real API requests to get realistic fake data. 
 
-In Postman, you can fork [this mock server](https://postman.postman.co/workspace/Postman-Hacktoberfest'21-~1ae1036b-6583-4883-949e-adf8b55687a1/collection/15567703-f6609889-8071-4251-9f1c-e55c7c6c45a3?ctx=documentation), and make real request to get dummy data from the various endpoints.
-
-> In Postman, a [Mock Server](https://www.postman.com/features/mock-api/) is a real server that sends faked data. It allows frontend teams to write code that calls an API and gets realistic responses, without having to wait for the backend team to actually build the API! Pretty nifty 😎
+> In Postman, a [Mock Server](https://www.postman.com/features/mock-api/) is a real server that sends faked data. It allows frontend teams to write code that calls an API and gets realistic responses, without having to wait for the backend team to actually build the API! This is the API-First Way 😎
 
 ### Getting started 
 

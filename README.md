@@ -28,8 +28,8 @@ If you would like anyone's pull requests in your repo to count toward [DigitalOc
 
 In the "About" section in the upper-right of the repo, click the Settings icon. Add `hacktoberfest` to the Topics field, then click "Save Changes"
 
-<img src="https://user-images.githubusercontent.com/9841162/134696893-29918c99-e2b3-43f7-97a1-99941051e1a4.png" height="150px" />
-<img src="https://user-images.githubusercontent.com/9841162/134697037-d044c651-39e5-446d-b577-c0b417085c18.png" height="150px" />
+<img src="https://user-images.githubusercontent.com/9841162/134696893-29918c99-e2b3-43f7-97a1-99941051e1a4.png" height="150px" style="display: inline-block" />
+<img src="https://user-images.githubusercontent.com/9841162/134697037-d044c651-39e5-446d-b577-c0b417085c18.png" height="150px" style="display: inline-block" />
 
 
 #### Register for Postman's Student Hacktoberfest

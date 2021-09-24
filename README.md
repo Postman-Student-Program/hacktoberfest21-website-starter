@@ -36,7 +36,9 @@ The design is all up to you! Be creative and have fun 🎨😎
 
 In the API-First approach, a mock server has been created based off of the Halloween Costume Contest API. 
 
-You can fork the mock server, and make real request to get dummy data from the various endpoints. 
+In Postman, you can fork [this mock server](https://postman.postman.co/workspace/Postman-Hacktoberfest'21-~1ae1036b-6583-4883-949e-adf8b55687a1/collection/15567703-f6609889-8071-4251-9f1c-e55c7c6c45a3?ctx=documentation), and make real request to get dummy data from the various endpoints.
+
+> In Postman, a [Mock Server](https://www.postman.com/features/mock-api/) is a real server that sends faked data. It allows frontend teams to write code that calls an API and gets realistic responses, without having to wait for the backend team to actually build the API! Pretty nifty 😎
 
 ### Getting started 
 
@@ -60,7 +62,7 @@ In the "About" section in the upper-right of the repo, click the Settings icon. 
 
 Fill out [this form]()
 
-#### Clone your forked repo 
+#### 4. Clone your forked repo 
 
 [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) your GitHub repo locally to your computer so you can start writing code. 
 

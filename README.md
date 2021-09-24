@@ -14,6 +14,20 @@
 
 You have chosen to build a website! You can use any tech stack you want, as long as you deploy it 
 
+### Requirements
+
+Your website should fulfill AT LEAST these 5 user stories: 
+
+```
+- As a user, I can view all the contestant’s costume images in some kind of list
+- As a user, I can view all details about a single contestant
+- As a user, I can upvote individual contestants 
+- As a user, I can add a contestant
+- As an user on a secret page, I can delete contestants
+```
+
+You can of course add other features, such as a secret page for updating contestant details, or a map displaying where each contestant is from, etc.
+
 ### Getting started 
 
 #### Fork this repo 
@@ -49,6 +63,6 @@ In the "About" section in the upper-right of the repo, click the Settings icon. 
 
 ### Need help? 
 
-Get help in the Postman Student Community Discord server! Ask questions in the `Hacktoberfest > #website` channel, or join us at Office Hours. 
+Get help in the Postman Student Community Discord server! Ask questions in the `#hacktoberfest-frontend` channel, or join us at Office Hours. 
 
 

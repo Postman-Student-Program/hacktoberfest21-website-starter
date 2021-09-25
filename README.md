@@ -18,7 +18,7 @@ You have chosen to build a website! You can use any tech stack you want, as long
 
 You can use ANY tech stack you like to build your website, as long as you deploy it.
 
-Your website should fulfill AT LEAST these 5 user stories that consume the Halloween Costume Contest API: 
+Your website should fulfill **at least** these 5 user stories that consume the Halloween Costume Contest API: 
 
 ```
 - As a user, I can view all contestants' costume images in some kind of list

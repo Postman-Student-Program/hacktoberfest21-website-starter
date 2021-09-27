@@ -1,4 +1,4 @@
-# Postman Student API-First Hacktoberfest: Website starter
+# Postman API-First Hacktoberfest for Students: Website starter
 
 <EDIT ME!>
 

@@ -12,7 +12,7 @@
 
 ## Build a website that uses the Halloween Costume Contest API!
 
-You have chosen to build a website! You can use any tech stack you want, as long as you deploy it 
+You have chosen to build a website! 
 
 ### Requirements
 

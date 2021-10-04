@@ -65,9 +65,22 @@ In the "About" section in the upper-right of the repo, click the Settings icon. 
 
 You will need to have [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Giturl) installed on your computer
 
+#### Fork the Halloween Costume Contest API mock server in Postman
+
+Fork [this mock server collection](https://www.postman.com/postman/workspace/postman-hacktoberfest-21/collection/15567703-f6609889-8071-4251-9f1c-e55c7c6c45a3?ctx=documentation) to your own workspace. 
+
+Learn how to use Postman mockservers in this video: 
+
+<a href="https://www.loom.com/share/ba3cc79f12b74b5580e01c592b540794">
+  <img src="https://user-images.githubusercontent.com/9841162/135917042-7340ce27-f6c5-4277-b4e9-bd18b52c1861.png" height="250px"/>
+</a>
+
+
 ### Building your website
 
-#### Fork the Halloween Costume Contest API mock server in Postman
+<a href="https://www.loom.com/share/4b2c0ca76a2f4017a4f840ef539da4fa">
+  <img src="https://user-images.githubusercontent.com/9841162/135917307-631eafe5-8aba-4919-a25c-13fd6d206b23.png" height="250px"/>
+</a>
 
 #### Make those pull requests!
 

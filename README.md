@@ -100,6 +100,8 @@ There are many solutions for hosting your website publicly for free. If you aren
 - [Vercel](https://vercel.com/) 
 - [GitHub pages](https://pages.github.com/)
 
+See more free hosting solutions on [this page](https://free-for.dev/#/?id=web-hosting)
+
 ### Submit your website
 
 Submit [this form](https://docs.google.com/forms/d/e/1FAIpQLSeg8BVdg3fzuhwgBiM6AXR_NOEKI-w_Q8uG5eBVpfyVZmggXw/viewform) once you've deployed a website that covers the 5 user stories. 
